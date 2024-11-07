@@ -1,0 +1,16 @@
+Dear Support Team,
+
+I am writing to request an increase in the quota allocation of mentioned Machine Learning for the central region India
+
+Quota Name:
+Standard FSv2 Family Cluster Dedicated vCPUs, Central India
+
+Currently, our quota stands at 600 vCPUs. Based on recent performance metrics, we request an additional 200 vCPUs to meet our requirements, bringing the total quota to 600 vCPUs.
+Requesting you to kindly prioritize the ticket submission to Azure.
+Should you require any additional information or assistance, please reach out.
+
+Subscription ID :- bb47bf67-6b43-4cd9-9b81-a38f5d35708b
+Tenant ID :-  267e83b8-0e8c-4980-9228-e9bc0948cba0
+Domain:- bhashini.gov.in
+Severity:- A
+Contact Details:- Surbhi Maheshwari 9109117995.
